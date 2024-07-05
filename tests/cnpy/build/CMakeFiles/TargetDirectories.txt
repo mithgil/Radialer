@@ -1,0 +1,3 @@
+/home/tim/c/projects/radialer/tests/cnpy/build/CMakeFiles/cnpytest.dir
+/home/tim/c/projects/radialer/tests/cnpy/build/CMakeFiles/edit_cache.dir
+/home/tim/c/projects/radialer/tests/cnpy/build/CMakeFiles/rebuild_cache.dir

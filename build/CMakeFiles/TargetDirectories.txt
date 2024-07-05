@@ -1,0 +1,4 @@
+/home/tim/c/projects/radialer/build/CMakeFiles/radial.dir
+/home/tim/c/projects/radialer/build/CMakeFiles/runradial.dir
+/home/tim/c/projects/radialer/build/CMakeFiles/edit_cache.dir
+/home/tim/c/projects/radialer/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/tim/c/projects/radialer/tests/build/CMakeFiles/h5read.dir
+/home/tim/c/projects/radialer/tests/build/CMakeFiles/edit_cache.dir
+/home/tim/c/projects/radialer/tests/build/CMakeFiles/rebuild_cache.dir
