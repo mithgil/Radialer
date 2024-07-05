@@ -17,6 +17,7 @@ Radialer is a C++ project designed to generate a 3D radialial polarization and e
 - [Disclaimer](#disclaimer)
 - [Contribution](#contribution)
 - [License](#license)
+- [Keywords](#Keywords)
 
 ## Features
 
@@ -134,4 +135,10 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 
 Distributed under the GNU general public License. See LICENSE for more information.
+
+## Keywords
+- Radial Polarization
+- MEEP
+- FDTD Simulation
+- Computational Electromagnetics
 
