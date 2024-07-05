@@ -35,7 +35,7 @@ Radialer is a C++ project designed to generate a 3D radialial polarization and e
 ### Building the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/RadialProject.git
+   git clone https://github.com/mithgil/Radialer.git
    cd RadialProject
 
 2. Create a build directory and navigate to it:
