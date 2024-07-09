@@ -36,8 +36,3 @@ def read_4d_complex_array_from_file(filename, dim1, dim2, dim3, dim4):
 
     return array
 
-# Example usage:
-filename = '../build/radial_array.txt'
-dim1, dim2, dim3, dim4 = 3, 81, 81, 81
-complex_array = read_4d_complex_array_from_file(filename, dim1, dim2, dim3, dim4)
-print("Shape of the loaded array:", complex_array.shape)
