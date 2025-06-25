@@ -2,7 +2,6 @@
 
 2024/7/5
 
-Tim
 
 Radialer is a C++ project designed to generate a 3D radialial polarization and export them into txt, npy files. In literature, "**cylindrical vector beams**"[1,2] are used to describe the mode. I used to use python [MEEP](https://meep.readthedocs.io/en/latest/) for running a lot of electromagnetic simulations. However, there is no c++ implementation for radial polarization in MEEP. Python scripts are not ideal for large-scale computation. This project provides python MEEP users an easy and efficient tool to create a 3D waveform of radial polarization instead of using python implementation. Jupyter notebooks are provided for data visualization and simple simulation demonstration. Since the focal field distribution is exported as independent files, porting to other FDTD simulation solvers might be possible. 
 
